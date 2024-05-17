@@ -1,7 +1,7 @@
 # ai_group_project_3
 AI Bootcamp | Group Project 3
 
-MuSE: The Musical Sentiment Dataset (found on [Kaggle](https://www.kaggle.com/datasets/cakiki/muse-the-musical-sentiment-dataset)
+MuSE: The Musical Sentiment Dataset (found on [Kaggle](https://www.kaggle.com/datasets/cakiki/muse-the-musical-sentiment-dataset))
 
 The process of producing this dataset is described in the paper [Toward a Musical Sentiment (MuSe) Dataset for Affective Distant Hearing](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ceur-ws.org/Vol-2723/short26.pdf), which was presented at the CHR 2020 workshop on Computational Humanities Research.
 
