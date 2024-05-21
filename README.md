@@ -39,15 +39,21 @@ UI is functional
 * Metric: UI is functional & intuitive to use 
 * Measurement: User intuitively knows how to operate system and system functions as expected 
 
-## Modeling 
+## BERT Modeling 
 ...yada yada using the MuSE dataset from Kaggle...yada yada
 
-## MuSE: The Musical Sentiment Dataset (found on [Kaggle](https://www.kaggle.com/datasets/cakiki/muse-the-musical-sentiment-dataset))
+### MuSE: The Musical Sentiment Dataset (found on [Kaggle](https://www.kaggle.com/datasets/cakiki/muse-the-musical-sentiment-dataset))
 
 The process of producing this dataset is described in the paper [Toward a Musical Sentiment (MuSe) Dataset for Affective Distant Hearing](https://www.academia.edu/75793892/Toward_a_Musical_Sentiment_MuSe_Dataset_for_Affective_Distant_Hearing), which was presented at the CHR 2020 workshop on Computational Humanities Research.
 In summary, to create this dataset, the authors carried out a multi-stage process to create a comprehensive register of songs mapped to the dimensions of valence, arousal, and dominance. They began by collecting mood labels from Allmusic.com as seed terms, then gathered user-generated tags from Last.fm for songs associated with those moods. Through filtering, they identified which tags corresponded to affective concepts using WordNet-Affect. The remaining mood tags were then mapped to valence, arousal, and dominance scores using ratings from Warriner et al's crowdsourced lexicon. Additional metadata like artist, genre, and Spotify audio features were appended by cross-referencing with the Spotify API. The resulting dataset contained around 90,000 songs characterized by mood tags dimensionally mapped to the VAD space, along with supplemental metadata facilitating further analysis of relationships between emotions, genres, and acoustic qualities.
 
+## VADER Modeling
+...yada
+
+## Gradio Integration
+...yada
 
 
+[link to deck]
 
 
