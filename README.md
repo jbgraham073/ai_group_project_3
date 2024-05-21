@@ -34,7 +34,7 @@ Sentiment Accuracy:
     * Metric: Accuracy of sentiment analysis and user satisfaction with rewritten lyrics.
     * Measurement: Evaluate the accuracy of sentiment analysis algorithms by comparing predicted sentiments with user-reported sentiments and analyzing feedback on the accuracy of the rewritten lyrics.
 
-### UI is functional 
+UI is functional 
 
     * Metric: UI is functional & intuitive to use 
     * Measurement: User intuitively knows how to operate system and system functions as expected 
