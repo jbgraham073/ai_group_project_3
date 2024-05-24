@@ -13,19 +13,18 @@ Many music enthusiasts enjoy songs but wish the lyrics better matched their curr
 2. Sentiment Customization: Allows users to select their desired sentiment (e.g., happy, sad, energetic, calm) and automatically rewrites the song lyrics to reflect this chosen mood.
 3. User-Friendly Interface: Offers an intuitive and interactive platform where users can easily input song lyrics, select their preferred sentiment, and receive personalized, sentiment-adjusted lyrics in real-time.
 
-## Milestones Achieved 
+## Process 
 
-* Milestone 1: Determine Project
+* Milestone 1 - Ideate & select project
 * Milestone 2 - Identify Data sources
 * Milestone 3 - Clean data
 * Milestone 4 - Identify/Build and train/Test models necessary for sentiment analysis of songs
     * BERT
     * VADER
 * Milestone 5 - Rewrite lyrics for selected song to be a different sentiment than what it currently is
-    * ChatGPT API will rewrite lyrics for new sentiment 
+    * ChatGPT API rewrites lyrics for new sentiment 
 * Milestone 6 - Build interface for User to input song for sentiment analysis and to request lyrics be rewritten
-* Milestone 7 (stretch goal)- Create a audio file for actual song with new lyrics
-* Milestone 8 Presentation
+* Milestone 7 - Presentation
 
 ### 💰 Success Criteria
 
