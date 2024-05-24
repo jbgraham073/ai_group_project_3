@@ -2,7 +2,7 @@
 AI Bootcamp | Group Project 3
 
 ## Overview
-This project provides tools for analyzing and modifying the sentiment of song lyrics using advanced machine learning models like BERT and VADER. With these tools, users can input a song's lyrics, understand its existing sentiment, and change the lyrics to match a new desired sentiment. The project includes multiple components such as data generation, model training, and a user-friendly interface built with Gradio.
+This project provides a Gradio app where users can input a song's lyrics, understand its existing sentiment, and change the lyrics to match a new desired sentiment. The project includes multiple components such as data generation, model training, and a user-friendly interface built with Gradio. We used tools for analyzing and modifying the sentiment of song lyrics using advanced machine learning models, BERT and VADER. 
 
 ## Problem Statement
 
