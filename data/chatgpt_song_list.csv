@@ -1,0 +1,1890 @@
+Sentiment,Song Title,Artist
+Happy / Joyful,Happy,Pharrell Williams
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Happy / Joyful,Can't Stop the Feeling!,Justin Timberlake
+Happy / Joyful,Uptown Funk,Mark Ronson ft. Bruno Mars
+Happy / Joyful,I Gotta Feeling,The Black Eyed Peas
+Sad / Melancholic,Someone Like You,Adele
+Sad / Melancholic,Yesterday,The Beatles
+Sad / Melancholic,Tears in Heaven,Eric Clapton
+Sad / Melancholic,Nothing Compares 2 U,Sinéad O'Connor
+Sad / Melancholic,Hurt,Johnny Cash
+Love / Romantic,Thinking Out Loud,Ed Sheeran
+Love / Romantic,Just the Way You Are,Bruno Mars
+Love / Romantic,All of Me,John Legend
+Love / Romantic,Endless Love,Diana Ross and Lionel Richie
+Love / Romantic,Unchained Melody,The Righteous Brothers
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Anger / Defiance,We’re Not Gonna Take It,Twisted Sister
+Anger / Defiance,Break Stuff,Limp Bizkit
+Anger / Defiance,Stronger,Kanye West
+Anger / Defiance,Fight Song,Rachel Platten
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Best Day of My Life,American Authors
+Happy / Joyful,Shut Up and Dance,WALK THE MOON
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,The Night We Met,Lord Huron
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Fix You,Coldplay
+Sad / Melancholic,Mad World,Gary Jules
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,I Don't Want to Miss a Thing,Aerosmith
+Love / Romantic,My Heart Will Go On,Celine Dion
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,The Sound of Silence,Simon & Garfunkel
+Sad / Melancholic,With or Without You,U2
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,Creep,Radiohead
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Something,The Beatles
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Endless Love,Lionel Richie & Diana Ross
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,In the End,Linkin Park
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Not Afraid,Eminem
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Happy / Joyful,All Star,Smash Mouth
+Happy / Joyful,Good Life,OneRepublic
+Happy / Joyful,Firework,Katy Perry
+Happy / Joyful,Wake Me Up Before You Go-Go,Wham!
+Happy / Joyful,Lovely Day,Bill Withers
+Sad / Melancholic,Skinny Love,Bon Iver
+Sad / Melancholic,Let Her Go,Passenger
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Yesterday,The Beatles
+Sad / Melancholic,I Will Remember You,Sarah McLachlan
+Love / Romantic,When a Man Loves a Woman,Percy Sledge
+Love / Romantic,How Deep Is Your Love,Bee Gees
+Love / Romantic,I Just Called to Say I Love You,Stevie Wonder
+Love / Romantic,You're Still the One,Shania Twain
+Love / Romantic,Kiss Me,Sixpence None The Richer
+Anger / Defiance,Survivor,Destiny's Child
+Anger / Defiance,The Pretender,Foo Fighters
+Anger / Defiance,We’re Not Gonna Take It,Twisted Sister
+Anger / Defiance,So What,P!nk
+Anger / Defiance,You Don't Own Me,Lesley Gore
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Happy / Joyful,Good Life,OneRepublic
+Happy / Joyful,Shake It Off,Taylor Swift
+Happy / Joyful,Shut Up and Dance,WALK THE MOON
+Happy / Joyful,Best Day of My Life,American Authors
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,Someone Like You,Adele
+Sad / Melancholic,Fix You,Coldplay
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,The Night We Met,Lord Huron
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Just the Way You Are,Bruno Mars
+Love / Romantic,All of Me,John Legend
+Love / Romantic,Thinking Out Loud,Ed Sheeran
+Love / Romantic,I Will Always Love You,Whitney Houston
+Anger / Defiance,We Will Rock You,Queen
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Not Afraid,Eminem
+Anger / Defiance,In the End,Linkin Park
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Firework,Katy Perry
+Happy / Joyful,Happy Together,The Turtles
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Sad / Melancholic,The Sound of Silence,Simon & Garfunkel
+Sad / Melancholic,Creep,Radiohead
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Let Her Go,Passenger
+Sad / Melancholic,With or Without You,U2
+Love / Romantic,Something,The Beatles
+Love / Romantic,Unchained Melody,The Righteous Brothers
+Love / Romantic,A Thousand Years,Christina Perri
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Anger / Defiance,Break Stuff,Limp Bizkit
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Anger / Defiance,Fight Song,Rachel Platten
+Anger / Defiance,Seven Nation Army,The White Stripes
+Happy / Joyful,Uptown Funk,Mark Ronson ft. Bruno Mars
+Happy / Joyful,Can't Stop the Feeling!,Justin Timberlake
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Wake Me Up Before You Go-Go,Wham!
+Sad / Melancholic,Mad World,Gary Jules
+Sad / Melancholic,Stay With Me,Sam Smith
+Nostalgic,Summer of '69,Bryan Adams
+Nostalgic,Bohemian Rhapsody,Queen
+Nostalgic,Hotel California,Eagles
+Nostalgic,Sweet Child O' Mine,Guns N' Roses
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Beautiful Day,U2
+Hopeful,Eye of the Tiger,Survivor
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Sittin' On the Dock of the Bay,Otis Redding
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Come Away with Me,Norah Jones
+Relaxed,Better Together,Jack Johnson
+Excited,Let's Get It Started,The Black Eyed Peas
+Excited,I Love It,Icona Pop ft. Charli XCX
+Excited,Pump It,The Black Eyed Peas
+Excited,Don't Stop the Music,Rihanna
+Excited,Livin' la Vida Loca,Ricky Martin
+Happy / Joyful,Happy,Pharrell Williams
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Happy / Joyful,Can't Stop the Feeling!,Justin Timberlake
+Happy / Joyful,Uptown Funk,Mark Ronson ft. Bruno Mars
+Happy / Joyful,I Gotta Feeling,The Black Eyed Peas
+Sad / Melancholic,Someone Like You,Adele
+Sad / Melancholic,Yesterday,The Beatles
+Sad / Melancholic,Tears in Heaven,Eric Clapton
+Sad / Melancholic,Nothing Compares 2 U,Sinéad O'Connor
+Sad / Melancholic,Hurt,Johnny Cash
+Love / Romantic,Thinking Out Loud,Ed Sheeran
+Love / Romantic,Just the Way You Are,Bruno Mars
+Love / Romantic,All of Me,John Legend
+Love / Romantic,Endless Love,Diana Ross and Lionel Richie
+Love / Romantic,Unchained Melody,The Righteous Brothers
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Anger / Defiance,We’re Not Gonna Take It,Twisted Sister
+Anger / Defiance,Break Stuff,Limp Bizkit
+Anger / Defiance,Stronger,Kanye West
+Anger / Defiance,Fight Song,Rachel Platten
+Nostalgic,Brown Eyed Girl,Van Morrison
+Nostalgic,American Pie,Don McLean
+Nostalgic,Dream On,Aerosmith
+Nostalgic,Landslide,Fleetwood Mac
+Nostalgic,Piano Man,Billy Joel
+Hopeful,We Are the Champions,Queen
+Hopeful,Walking on Sunshine,Katrina and the Waves
+Hopeful,Heroes,David Bowie
+Hopeful,Man in the Mirror,Michael Jackson
+Hopeful,Firework,Katy Perry
+Relaxed,Island in the Sun,Weezer
+Relaxed,Breezin',George Benson
+Relaxed,Sunflower,Post Malone and Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Shut Up and Dance,WALK THE MOON
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Best Day of My Life,American Authors
+Happy / Joyful,Shut Up and Dance,WALK THE MOON
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,The Night We Met,Lord Huron
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Fix You,Coldplay
+Sad / Melancholic,Mad World,Gary Jules
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,I Don't Want to Miss a Thing,Aerosmith
+Love / Romantic,My Heart Will Go On,Celine Dion
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Yesterday,The Beatles
+Nostalgic,Time After Time,Cyndi Lauper
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Beautiful Day,U2
+Hopeful,Stronger,Kanye West
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Relaxed,Sail Away,Enya
+Relaxed,Harvest Moon,Neil Young
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Bubbly,Colbie Caillat
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Dynamite,Taio Cruz
+Excited,Don't Stop Believin',Journey
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,The Sound of Silence,Simon & Garfunkel
+Sad / Melancholic,With or Without You,U2
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,Creep,Radiohead
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Something,The Beatles
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Endless Love,Lionel Richie & Diana Ross
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,In the End,Linkin Park
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Not Afraid,Eminem
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Sweet Home Alabama,Lynyrd Skynyrd
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,We Are the World,USA for Africa
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Hopeful,Happy,Pharrell Williams
+Hopeful,One Love,Bob Marley
+Relaxed,Sunshine,Ryann Darling
+Relaxed,Beyond,Leon Bridges
+Relaxed,Drift Away,Dobie Gray
+Relaxed,Riptide,Vance Joy
+Relaxed,Better Together,Jack Johnson
+Excited,Shake It Off,Taylor Swift
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Excited,Feel So Close,Calvin Harris
+Excited,Good Feeling,Flo Rida
+Excited,Fireball,Pitbull ft. John Ryan
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Let Her Go,Passenger
+Sad / Melancholic,With or Without You,U2
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Something,The Beatles
+Love / Romantic,Endless Love,Lionel Richie & Diana Ross
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Nostalgic,Bohemian Rhapsody,Queen
+Nostalgic,Hotel California,Eagles
+Nostalgic,Sweet Child O' Mine,Guns N' Roses
+Nostalgic,American Pie,Don McLean
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Beautiful Day,U2
+Hopeful,Eye of the Tiger,Survivor
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Sittin' On the Dock of the Bay,Otis Redding
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Come Away with Me,Norah Jones
+Relaxed,Better Together,Jack Johnson
+Excited,Let's Get It Started,The Black Eyed Peas
+Excited,I Love It,Icona Pop ft. Charli XCX
+Excited,Pump It,The Black Eyed Peas
+Excited,Don't Stop the Music,Rihanna
+Excited,Livin' la Vida Loca,Ricky Martin
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Best Day of My Life,American Authors
+Happy / Joyful,Shut Up and Dance,WALK THE MOON
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,The Night We Met,Lord Huron
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Fix You,Coldplay
+Sad / Melancholic,Mad World,Gary Jules
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,I Don't Want to Miss a Thing,Aerosmith
+Love / Romantic,My Heart Will Go On,Celine Dion
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Anger / Defiance,We’re Not Gonna Take It,Twisted Sister
+Anger / Defiance,Break Stuff,Limp Bizkit
+Anger / Defiance,Stronger,Kanye West
+Anger / Defiance,Fight Song,Rachel Platten
+Nostalgic,Brown Eyed Girl,Van Morrison
+Nostalgic,American Pie,Don McLean
+Nostalgic,Dream On,Aerosmith
+Nostalgic,Landslide,Fleetwood Mac
+Nostalgic,Piano Man,Billy Joel
+Hopeful,We Are the Champions,Queen
+Hopeful,Walking on Sunshine,Katrina and the Waves
+Hopeful,Heroes,David Bowie
+Hopeful,Man in the Mirror,Michael Jackson
+Hopeful,Firework,Katy Perry
+Relaxed,Island in the Sun,Weezer
+Relaxed,Breezin',George Benson
+Relaxed,Sunflower,Post Malone and Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Shut Up and Dance,WALK THE MOON
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Best Day of My Life,American Authors
+Happy / Joyful,Shut Up and Dance,WALK THE MOON
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,The Night We Met,Lord Huron
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Fix You,Coldplay
+Sad / Melancholic,Mad World,Gary Jules
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,I Don't Want to Miss a Thing,Aerosmith
+Love / Romantic,My Heart Will Go On,Celine Dion
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Yesterday,The Beatles
+Nostalgic,Time After Time,Cyndi Lauper
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Beautiful Day,U2
+Hopeful,Stronger,Kanye West
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Relaxed,Sail Away,Enya
+Relaxed,Harvest Moon,Neil Young
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Bubbly,Colbie Caillat
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Dynamite,Taio Cruz
+Excited,Don't Stop Believin',Journey
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,The Sound of Silence,Simon & Garfunkel
+Sad / Melancholic,With or Without You,U2
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,Creep,Radiohead
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Something,The Beatles
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Endless Love,Lionel Richie & Diana Ross
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,In the End,Linkin Park
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Not Afraid,Eminem
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Sweet Home Alabama,Lynyrd Skynyrd
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,We Are the World,USA for Africa
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Hopeful,Happy,Pharrell Williams
+Hopeful,One Love,Bob Marley
+Relaxed,Sunshine,Ryann Darling
+Relaxed,Beyond,Leon Bridges
+Relaxed,Drift Away,Dobie Gray
+Relaxed,Riptide,Vance Joy
+Relaxed,Better Together,Jack Johnson
+Excited,Shake It Off,Taylor Swift
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Excited,Feel So Close,Calvin Harris
+Excited,Good Feeling,Flo Rida
+Excited,Fireball,Pitbull ft. John Ryan
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Let Her Go,Passenger
+Sad / Melancholic,With or Without You,U2
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Something,The Beatles
+Love / Romantic,Endless Love,Lionel Richie & Diana Ross
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Nostalgic,Bohemian Rhapsody,Queen
+Nostalgic,Hotel California,Eagles
+Nostalgic,Sweet Child O' Mine,Guns N' Roses
+Nostalgic,American Pie,Don McLean
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Beautiful Day,U2
+Hopeful,Eye of the Tiger,Survivor
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Sittin' On the Dock of the Bay,Otis Redding
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Come Away with Me,Norah Jones
+Relaxed,Better Together,Jack Johnson
+Excited,Let's Get It Started,The Black Eyed Peas
+Excited,I Love It,Icona Pop ft. Charli XCX
+Excited,Pump It,The Black Eyed Peas
+Excited,Don't Stop the Music,Rihanna
+Excited,Livin' la Vida Loca,Ricky Martin
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Best Day of My Life,American Authors
+Happy / Joyful,Shut Up and Dance,WALK THE MOON
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,The Night We Met,Lord Huron
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Fix You,Coldplay
+Sad / Melancholic,Mad World,Gary Jules
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,I Don't Want to Miss a Thing,Aerosmith
+Love / Romantic,My Heart Will Go On,Celine Dion
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Anger / Defiance,We’re Not Gonna Take It,Twisted Sister
+Anger / Defiance,Break Stuff,Limp Bizkit
+Anger / Defiance,Stronger,Kanye West
+Anger / Defiance,Fight Song,Rachel Platten
+Nostalgic,Brown Eyed Girl,Van Morrison
+Nostalgic,American Pie,Don McLean
+Nostalgic,Dream On,Aerosmith
+Nostalgic,Landslide,Fleetwood Mac
+Nostalgic,Piano Man,Billy Joel
+Hopeful,We Are the Champions,Queen
+Hopeful,Walking on Sunshine,Katrina and the Waves
+Hopeful,Heroes,David Bowie
+Hopeful,Man in the Mirror,Michael Jackson
+Hopeful,Firework,Katy Perry
+Relaxed,Island in the Sun,Weezer
+Relaxed,Breezin',George Benson
+Relaxed,Sunflower,Post Malone and Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Shut Up and Dance,WALK THE MOON
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Best Day of My Life,American Authors
+Happy / Joyful,Shut Up and Dance,WALK THE MOON
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,The Night We Met,Lord Huron
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Fix You,Coldplay
+Sad / Melancholic,Mad World,Gary Jules
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,I Don't Want to Miss a Thing,Aerosmith
+Love / Romantic,My Heart Will Go On,Celine Dion
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Yesterday,The Beatles
+Nostalgic,Time After Time,Cyndi Lauper
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Beautiful Day,U2
+Hopeful,Stronger,Kanye West
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Relaxed,Sail Away,Enya
+Relaxed,Harvest Moon,Neil Young
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Bubbly,Colbie Caillat
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Dynamite,Taio Cruz
+Excited,Don't Stop Believin',Journey
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,The Sound of Silence,Simon & Garfunkel
+Sad / Melancholic,With or Without You,U2
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,Creep,Radiohead
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Something,The Beatles
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Endless Love,Lionel Richie & Diana Ross
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,In the End,Linkin Park
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Not Afraid,Eminem
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Sweet Home Alabama,Lynyrd Skynyrd
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,We Are the World,USA for Africa
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Hopeful,Happy,Pharrell Williams
+Hopeful,One Love,Bob Marley
+Relaxed,Sunshine,Ryann Darling
+Relaxed,Beyond,Leon Bridges
+Relaxed,Drift Away,Dobie Gray
+Relaxed,Riptide,Vance Joy
+Relaxed,Better Together,Jack Johnson
+Excited,Shake It Off,Taylor Swift
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Excited,Feel So Close,Calvin Harris
+Excited,Good Feeling,Flo Rida
+Excited,Fireball,Pitbull ft. John Ryan
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Let Her Go,Passenger
+Sad / Melancholic,With or Without You,U2
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Something,The Beatles
+Love / Romantic,Endless Love,Lionel Richie & Diana Ross
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Nostalgic,Bohemian Rhapsody,Queen
+Nostalgic,Hotel California,Eagles
+Nostalgic,Sweet Child O' Mine,Guns N' Roses
+Nostalgic,American Pie,Don McLean
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Beautiful Day,U2
+Hopeful,Eye of the Tiger,Survivor
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Sittin' On the Dock of the Bay,Otis Redding
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Come Away with Me,Norah Jones
+Relaxed,Better Together,Jack Johnson
+Excited,Let's Get It Started,The Black Eyed Peas
+Excited,I Love It,Icona Pop ft. Charli XCX
+Excited,Pump It,The Black Eyed Peas
+Excited,Don't Stop the Music,Rihanna
+Excited,Livin' la Vida Loca,Ricky Martin
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Best Day of My Life,American Authors
+Happy / Joyful,Shut Up and Dance,WALK THE MOON
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,The Night We Met,Lord Huron
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Fix You,Coldplay
+Sad / Melancholic,Mad World,Gary Jules
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,I Don't Want to Miss a Thing,Aerosmith
+Love / Romantic,My Heart Will Go On,Celine Dion
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Anger / Defiance,We’re Not Gonna Take It,Twisted Sister
+Anger / Defiance,Break Stuff,Limp Bizkit
+Anger / Defiance,Stronger,Kanye West
+Anger / Defiance,Fight Song,Rachel Platten
+Nostalgic,Brown Eyed Girl,Van Morrison
+Nostalgic,American Pie,Don McLean
+Nostalgic,Dream On,Aerosmith
+Nostalgic,Landslide,Fleetwood Mac
+Nostalgic,Piano Man,Billy Joel
+Hopeful,We Are the Champions,Queen
+Hopeful,Walking on Sunshine,Katrina and the Waves
+Hopeful,Heroes,David Bowie
+Hopeful,Man in the Mirror,Michael Jackson
+Hopeful,Firework,Katy Perry
+Relaxed,Island in the Sun,Weezer
+Relaxed,Breezin',George Benson
+Relaxed,Sunflower,Post Malone and Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Shut Up and Dance,WALK THE MOON
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Best Day of My Life,American Authors
+Happy / Joyful,Shut Up and Dance,WALK THE MOON
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,The Night We Met,Lord Huron
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Fix You,Coldplay
+Sad / Melancholic,Mad World,Gary Jules
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,I Don't Want to Miss a Thing,Aerosmith
+Love / Romantic,My Heart Will Go On,Celine Dion
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Yesterday,The Beatles
+Nostalgic,Time After Time,Cyndi Lauper
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Beautiful Day,U2
+Hopeful,Stronger,Kanye West
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Relaxed,Sail Away,Enya
+Relaxed,Harvest Moon,Neil Young
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Bubbly,Colbie Caillat
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Dynamite,Taio Cruz
+Excited,Don't Stop Believin',Journey
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,The Sound of Silence,Simon & Garfunkel
+Sad / Melancholic,With or Without You,U2
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,Creep,Radiohead
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Something,The Beatles
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Endless Love,Lionel Richie & Diana Ross
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,In the End,Linkin Park
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Not Afraid,Eminem
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Sweet Home Alabama,Lynyrd Skynyrd
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,We Are the World,USA for Africa
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Hopeful,Happy,Pharrell Williams
+Hopeful,One Love,Bob Marley
+Relaxed,Sunshine,Ryann Darling
+Relaxed,Beyond,Leon Bridges
+Relaxed,Drift Away,Dobie Gray
+Relaxed,Riptide,Vance Joy
+Relaxed,Better Together,Jack Johnson
+Excited,Shake It Off,Taylor Swift
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Excited,Feel So Close,Calvin Harris
+Excited,Good Feeling,Flo Rida
+Excited,Fireball,Pitbull ft. John Ryan
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Let Her Go,Passenger
+Sad / Melancholic,With or Without You,U2
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Something,The Beatles
+Love / Romantic,Endless Love,Lionel Richie & Diana Ross
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Nostalgic,Bohemian Rhapsody,Queen
+Nostalgic,Hotel California,Eagles
+Nostalgic,Sweet Child O' Mine,Guns N' Roses
+Nostalgic,American Pie,Don McLean
+Hopeful,Here Comes the Sun,The Beatles
+Nostalgic,Summer of '69,Bryan Adams
+Nostalgic,Bohemian Rhapsody,Queen
+Nostalgic,Hotel California,Eagles
+Nostalgic,Sweet Child O' Mine,Guns N' Roses
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Beautiful Day,U2
+Hopeful,Eye of the Tiger,Survivor
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Sittin' On the Dock of the Bay,Otis Redding
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Come Away with Me,Norah Jones
+Relaxed,Better Together,Jack Johnson
+Excited,Let's Get It Started,The Black Eyed Peas
+Excited,I Love It,Icona Pop ft. Charli XCX
+Excited,Pump It,The Black Eyed Peas
+Excited,Don't Stop the Music,Rihanna
+Excited,Livin' la Vida Loca,Ricky Martin
+Happy / Joyful,Happy,Pharrell Williams
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Happy / Joyful,Can't Stop the Feeling!,Justin Timberlake
+Happy / Joyful,Uptown Funk,Mark Ronson ft. Bruno Mars
+Happy / Joyful,I Gotta Feeling,The Black Eyed Peas
+Sad / Melancholic,Someone Like You,Adele
+Sad / Melancholic,Yesterday,The Beatles
+Sad / Melancholic,Tears in Heaven,Eric Clapton
+Sad / Melancholic,Nothing Compares 2 U,Sinéad O'Connor
+Sad / Melancholic,Hurt,Johnny Cash
+Love / Romantic,Thinking Out Loud,Ed Sheeran
+Love / Romantic,Just the Way You Are,Bruno Mars
+Love / Romantic,All of Me,John Legend
+Love / Romantic,Endless Love,Diana Ross and Lionel Richie
+Love / Romantic,Unchained Melody,The Righteous Brothers
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Anger / Defiance,We’re Not Gonna Take It,Twisted Sister
+Anger / Defiance,Break Stuff,Limp Bizkit
+Anger / Defiance,Stronger,Kanye West
+Anger / Defiance,Fight Song,Rachel Platten
+Nostalgic,Brown Eyed Girl,Van Morrison
+Nostalgic,American Pie,Don McLean
+Nostalgic,Dream On,Aerosmith
+Nostalgic,Landslide,Fleetwood Mac
+Nostalgic,Piano Man,Billy Joel
+Hopeful,We Are the Champions,Queen
+Hopeful,Walking on Sunshine,Katrina and the Waves
+Hopeful,Heroes,David Bowie
+Hopeful,Man in the Mirror,Michael Jackson
+Hopeful,Firework,Katy Perry
+Relaxed,Island in the Sun,Weezer
+Relaxed,Breezin',George Benson
+Relaxed,Sunflower,Post Malone and Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Shut Up and Dance,WALK THE MOON
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Best Day of My Life,American Authors
+Happy / Joyful,Shut Up and Dance,WALK THE MOON
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,The Night We Met,Lord Huron
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Fix You,Coldplay
+Sad / Melancholic,Mad World,Gary Jules
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,I Don't Want to Miss a Thing,Aerosmith
+Love / Romantic,My Heart Will Go On,Celine Dion
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Yesterday,The Beatles
+Nostalgic,Time After Time,Cyndi Lauper
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Beautiful Day,U2
+Hopeful,Stronger,Kanye West
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Relaxed,Sail Away,Enya
+Relaxed,Harvest Moon,Neil Young
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Bubbly,Colbie Caillat
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Dynamite,Taio Cruz
+Excited,Don't Stop Believin',Journey
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,The Sound of Silence,Simon & Garfunkel
+Sad / Melancholic,With or Without You,U2
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,Creep,Radiohead
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Something,The Beatles
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Endless Love,Lionel Richie & Diana Ross
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,In the End,Linkin Park
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Not Afraid,Eminem
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Sweet Home Alabama,Lynyrd Skynyrd
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,We Are the World,USA for Africa
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Hopeful,Happy,Pharrell Williams
+Hopeful,One Love,Bob Marley
+Relaxed,Sunshine,Ryann Darling
+Relaxed,Beyond,Leon Bridges
+Relaxed,Drift Away,Dobie Gray
+Relaxed,Riptide,Vance Joy
+Relaxed,Better Together,Jack Johnson
+Excited,Shake It Off,Taylor Swift
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Excited,Feel So Close,Calvin Harris
+Excited,Good Feeling,Flo Rida
+Excited,Fireball,Pitbull ft. John Ryan
+Happy / Joyful,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Let Her Go,Passenger
+Sad / Melancholic,With or Without You,U2
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,Something,The Beatles
+Love / Romantic,Endless Love,Lionel Richie & Diana Ross
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Radioactive,Imagine Dragons
+Nostalgic,California Dreamin',The Mamas & The Papas
+Nostalgic,More Than a Feeling,Boston
+Nostalgic,Let It Be,The Beatles
+Nostalgic,Hotel California,Eagles
+Nostalgic,Stairway to Heaven,Led Zeppelin
+Hopeful,We Are the World,USA for Africa
+Hopeful,Walking on Sunshine,Katrina and the Waves
+Hopeful,Beautiful,U2
+Hopeful,Don't Dream It's Over,Crowded House
+Hopeful,Bridge Over Troubled Water,Simon & Garfunkel
+Relaxed,Chill Bill,Rob $tone ft. J. Davi$ & Spooks
+Relaxed,Weightless,Marconi Union
+Relaxed,Sunday Morning,Maroon 5
+Relaxed,Bubbly,Colbie Caillat
+Relaxed,Ocean Eyes,Billie Eilish
+Excited,Shut Up and Dance,WALK THE MOON
+Excited,Party in the USA,Miley Cyrus
+Excited,Blinding Lights,The Weeknd
+Excited,Timber,Pitbull ft. Kesha
+Excited,Can't Stop the Feeling!,Justin Timberlake
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Happy / Joyful,Dancing in the Moonlight,King Harvest
+Happy / Joyful,Ho Hey,The Lumineers
+Happy / Joyful,Best Day of My Life,American Authors
+Sad / Melancholic,The Sound of Silence,Simon & Garfunkel
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,Let Her Go,Passenger
+Sad / Melancholic,With or Without You,U2
+Sad / Melancholic,Lost Cause,Billie Eilish
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,All of Me,John Legend
+Love / Romantic,Something,The Beatles
+Love / Romantic,Unchained Melody,The Righteous Brothers
+Love / Romantic,My Heart Will Go On,Celine Dion
+Anger / Defiance,In the End,Linkin Park
+Anger / Defiance,Break Stuff,Limp Bizkit
+Anger / Defiance,Not Afraid,Eminem
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Nostalgic,More Than Words,Extreme
+Nostalgic,Bohemian Rhapsody,Queen
+Nostalgic,Imagine,John Lennon
+Nostalgic,Free Bird,Lynyrd Skynyrd
+Nostalgic,Purple Haze,Jimi Hendrix
+Hopeful,Beautiful Day,U2
+Hopeful,Don't Stop,Believe Fleetwood Mac
+Hopeful,Hero,Enrique Iglesias
+Hopeful,Life Is a Highway,Tom Cochrane
+Hopeful,We Are the Champions,Queen
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Sunflower,Post Malone & Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Relaxed,Drift Away,Dobie Gray
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Excited,Dynamite,Taio Cruz
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Happy / Joyful,Best Day of My Life,American Authors
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,The Night We Met,Lord Huron
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Survivor,Destiny's Child
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Time After Time,Cyndi Lauper
+Nostalgic,Under the Bridge,Red Hot Chili Peppers
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Relaxed,Sail Away,Enya
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Breezin',George Benson
+Relaxed,Sitting on the Dock of the Bay,Otis Redding
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Feel So Close,Calvin Harris
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Skinny Love,Bon Iver
+Sad / Melancholic,I Will Remember You,Sarah McLachlan
+Sad / Melancholic,The Scientist,Coldplay
+Sad / Melancholic,Back to December,Taylor Swift
+Love / Romantic,When a Man Loves a Woman,Percy Sledge
+Love / Romantic,How Deep Is Your Love,Bee Gees
+Love / Romantic,I Just Called to Say I Love You,Stevie Wonder
+Love / Romantic,You're Still the One,Shania Twain
+Love / Romantic,Kiss Me,Sixpence None The Richer
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,Fight Song,Rachel Platten
+Anger / Defiance,The Pretender,Foo Fighters
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Imagine,John Lennon
+Hopeful,We Are the World,USA for Africa
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Beautiful Day,U2
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Sunflower,Post Malone & Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,The Night We Met,Lord Huron
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Survivor,Destiny's Child
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Time After Time,Cyndi Lauper
+Nostalgic,Under the Bridge,Red Hot Chili Peppers
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Relaxed,Sail Away,Enya
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Breezin',George Benson
+Relaxed,Sitting on the Dock of the Bay,Otis Redding
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Feel So Close,Calvin Harris
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Skinny Love,Bon Iver
+Sad / Melancholic,I Will Remember You,Sarah McLachlan
+Sad / Melancholic,The Scientist,Coldplay
+Sad / Melancholic,Back to December,Taylor Swift
+Love / Romantic,When a Man Loves a Woman,Percy Sledge
+Love / Romantic,How Deep Is Your Love,Bee Gees
+Love / Romantic,I Just Called to Say I Love You,Stevie Wonder
+Love / Romantic,You're Still the One,Shania Twain
+Love / Romantic,Kiss Me,Sixpence None The Richer
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,Fight Song,Rachel Platten
+Anger / Defiance,The Pretender,Foo Fighters
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Imagine,John Lennon
+Hopeful,We Are the World,USA for Africa
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Beautiful Day,U2
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Sunflower,Post Malone & Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,The Night We Met,Lord Huron
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Survivor,Destiny's Child
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Time After Time,Cyndi Lauper
+Nostalgic,Under the Bridge,Red Hot Chili Peppers
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Relaxed,Sail Away,Enya
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Breezin',George Benson
+Relaxed,Sitting on the Dock of the Bay,Otis Redding
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Feel So Close,Calvin Harris
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Skinny Love,Bon Iver
+Sad / Melancholic,I Will Remember You,Sarah McLachlan
+Sad / Melancholic,The Scientist,Coldplay
+Sad / Melancholic,Back to December,Taylor Swift
+Love / Romantic,When a Man Loves a Woman,Percy Sledge
+Love / Romantic,How Deep Is Your Love,Bee Gees
+Love / Romantic,I Just Called to Say I Love You,Stevie Wonder
+Love / Romantic,You're Still the One,Shania Twain
+Love / Romantic,Kiss Me,Sixpence None The Richer
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,Fight Song,Rachel Platten
+Anger / Defiance,The Pretender,Foo Fighters
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Imagine,John Lennon
+Hopeful,We Are the World,USA for Africa
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Beautiful Day,U2
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Sunflower,Post Malone & Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,The Night We Met,Lord Huron
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Survivor,Destiny's Child
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Time After Time,Cyndi Lauper
+Nostalgic,Under the Bridge,Red Hot Chili Peppers
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Relaxed,Sail Away,Enya
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Breezin',George Benson
+Relaxed,Sitting on the Dock of the Bay,Otis Redding
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Feel So Close,Calvin Harris
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Skinny Love,Bon Iver
+Sad / Melancholic,I Will Remember You,Sarah McLachlan
+Sad / Melancholic,The Scientist,Coldplay
+Sad / Melancholic,Back to December,Taylor Swift
+Love / Romantic,When a Man Loves a Woman,Percy Sledge
+Love / Romantic,How Deep Is Your Love,Bee Gees
+Love / Romantic,I Just Called to Say I Love You,Stevie Wonder
+Love / Romantic,You're Still the One,Shania Twain
+Love / Romantic,Kiss Me,Sixpence None The Richer
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,Fight Song,Rachel Platten
+Anger / Defiance,The Pretender,Foo Fighters
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Imagine,John Lennon
+Hopeful,We Are the World,USA for Africa
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Beautiful Day,U2
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Sunflower,Post Malone & Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,The Night We Met,Lord Huron
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Survivor,Destiny's Child
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Time After Time,Cyndi Lauper
+Nostalgic,Under the Bridge,Red Hot Chili Peppers
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Relaxed,Sail Away,Enya
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Breezin',George Benson
+Relaxed,Sitting on the Dock of the Bay,Otis Redding
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Feel So Close,Calvin Harris
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Skinny Love,Bon Iver
+Sad / Melancholic,I Will Remember You,Sarah McLachlan
+Sad / Melancholic,The Scientist,Coldplay
+Sad / Melancholic,Back to December,Taylor Swift
+Love / Romantic,When a Man Loves a Woman,Percy Sledge
+Love / Romantic,How Deep Is Your Love,Bee Gees
+Love / Romantic,I Just Called to Say I Love You,Stevie Wonder
+Love / Romantic,You're Still the One,Shania Twain
+Love / Romantic,Kiss Me,Sixpence None The Richer
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,Fight Song,Rachel Platten
+Anger / Defiance,The Pretender,Foo Fighters
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Imagine,John Lennon
+Hopeful,We Are the World,USA for Africa
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Beautiful Day,U2
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Sunflower,Post Malone & Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,The Night We Met,Lord Huron
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,A Thousand Years,Christina Perri
+Nostalgic,American Pie,Don McLean
+Nostalgic,Stairway to Heaven,Led Zeppelin
+Nostalgic,Let It Be,The Beatles
+Nostalgic,Sweet Child O' Mine,Guns N' Roses
+Nostalgic,Hotel California,Eagles
+Hopeful,We Are the World,USA for Africa
+Hopeful,Imagine,John Lennon
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Don't Dream It's Over,Crowded House
+Hopeful,Bridge Over Troubled Water,Simon & Garfunkel
+Relaxed,Chill Bill,Rob $tone ft. J. Davi$ & Spooks
+Relaxed,Weightless,Marconi Union
+Relaxed,Sunday Morning,Maroon 5
+Relaxed,Bubbly,Colbie Caillat
+Relaxed,Ocean Eyes,Billie Eilish
+Excited,Shut Up and Dance,WALK THE MOON
+Excited,Party in the USA,Miley Cyrus
+Excited,Blinding Lights,The Weeknd
+Excited,Timber,Pitbull ft. Kesha
+Excited,Can't Stop the Feeling!,Justin Timberlake
+Happy / Joyful,On Top of the World,Imagine Dragons
+Happy / Joyful,Happy Together,The Turtles
+Happy / Joyful,Dancing in the Moonlight,King Harvest
+Happy / Joyful,Ho Hey,The Lumineers
+Happy / Joyful,Best Day of My Life,American Authors
+Sad / Melancholic,The Sound of Silence,Simon & Garfunkel
+Sad / Melancholic,Everybody Hurts,R.E.M.
+Sad / Melancholic,Let Her Go,Passenger
+Sad / Melancholic,With or Without You,U2
+Sad / Melancholic,Lost Cause,Billie Eilish
+Love / Romantic,Perfect,Ed Sheeran
+Love / Romantic,All of Me,John Legend
+Love / Romantic,Something,The Beatles
+Love / Romantic,Unchained Melody,The Righteous Brothers
+Love / Romantic,My Heart Will Go On,Celine Dion
+Anger / Defiance,In the End,Linkin Park
+Anger / Defiance,Break Stuff,Limp Bizkit
+Anger / Defiance,Not Afraid,Eminem
+Anger / Defiance,Radioactive,Imagine Dragons
+Anger / Defiance,We Will Rock You,Queen
+Nostalgic,More Than Words,Extreme
+Nostalgic,Bohemian Rhapsody,Queen
+Nostalgic,Imagine,John Lennon
+Nostalgic,Free Bird,Lynyrd Skynyrd
+Nostalgic,Purple Haze,Jimi Hendrix
+Hopeful,Beautiful Day,U2
+Hopeful,Don't Stop,Believe Fleetwood Mac
+Hopeful,Hero,Enrique Iglesias
+Hopeful,Life Is a Highway,Tom Cochrane
+Hopeful,We Are the Champions,Queen
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Sunflower,Post Malone & Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Relaxed,Drift Away,Dobie Gray
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Excited,Dynamite,Taio Cruz
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Happy / Joyful,Best Day of My Life,American Authors
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,The Night We Met,Lord Huron
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Survivor,Destiny's Child
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Time After Time,Cyndi Lauper
+Nostalgic,Under the Bridge,Red Hot Chili Peppers
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Relaxed,Sail Away,Enya
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Breezin',George Benson
+Relaxed,Sitting on the Dock of the Bay,Otis Redding
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Feel So Close,Calvin Harris
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Skinny Love,Bon Iver
+Sad / Melancholic,I Will Remember You,Sarah McLachlan
+Sad / Melancholic,The Scientist,Coldplay
+Sad / Melancholic,Back to December,Taylor Swift
+Love / Romantic,When a Man Loves a Woman,Percy Sledge
+Love / Romantic,How Deep Is Your Love,Bee Gees
+Love / Romantic,I Just Called to Say I Love You,Stevie Wonder
+Love / Romantic,You're Still the One,Shania Twain
+Love / Romantic,Kiss Me,Sixpence None The Richer
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,Fight Song,Rachel Platten
+Anger / Defiance,The Pretender,Foo Fighters
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Imagine,John Lennon
+Hopeful,We Are the World,USA for Africa
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Beautiful Day,U2
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Sunflower,Post Malone & Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,The Night We Met,Lord Huron
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Survivor,Destiny's Child
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Time After Time,Cyndi Lauper
+Nostalgic,Under the Bridge,Red Hot Chili Peppers
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Relaxed,Sail Away,Enya
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Breezin',George Benson
+Relaxed,Sitting on the Dock of the Bay,Otis Redding
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Feel So Close,Calvin Harris
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Skinny Love,Bon Iver
+Sad / Melancholic,I Will Remember You,Sarah McLachlan
+Sad / Melancholic,The Scientist,Coldplay
+Sad / Melancholic,Back to December,Taylor Swift
+Love / Romantic,When a Man Loves a Woman,Percy Sledge
+Love / Romantic,How Deep Is Your Love,Bee Gees
+Love / Romantic,I Just Called to Say I Love You,Stevie Wonder
+Love / Romantic,You're Still the One,Shania Twain
+Love / Romantic,Kiss Me,Sixpence None The Richer
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,Fight Song,Rachel Platten
+Anger / Defiance,The Pretender,Foo Fighters
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Imagine,John Lennon
+Hopeful,We Are the World,USA for Africa
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Beautiful Day,U2
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Sunflower,Post Malone & Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,The Night We Met,Lord Huron
+Love / Romantic,I Will Always Love You,Whitney Houston
+Love / Romantic,Your Song,Elton John
+Love / Romantic,Can't Help Falling in Love,Elvis Presley
+Love / Romantic,Crazy in Love,Beyoncé ft. Jay-Z
+Love / Romantic,A Thousand Years,Christina Perri
+Anger / Defiance,Rolling in the Deep,Adele
+Anger / Defiance,Smells Like Teen Spirit,Nirvana
+Anger / Defiance,Stronger (What Doesn’t Kill You),Kelly Clarkson
+Anger / Defiance,Survivor,Destiny's Child
+Anger / Defiance,Gives You Hell,The All-American Rejects
+Nostalgic,Hey Jude,The Beatles
+Nostalgic,Purple Rain,Prince
+Nostalgic,Dust in the Wind,Kansas
+Nostalgic,Time After Time,Cyndi Lauper
+Nostalgic,Under the Bridge,Red Hot Chili Peppers
+Hopeful,Don't Stop Me Now,Queen
+Hopeful,Rise Up,Andra Day
+Hopeful,I Will Survive,Gloria Gaynor
+Hopeful,What a Wonderful World,Louis Armstrong
+Hopeful,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell
+Relaxed,Sail Away,Enya
+Relaxed,Tequila,The Champs
+Relaxed,Into the Mystic,Van Morrison
+Relaxed,Breezin',George Benson
+Relaxed,Sitting on the Dock of the Bay,Otis Redding
+Excited,I Gotta Feeling,The Black Eyed Peas
+Excited,Wake Me Up,Avicii
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Excited,Feel So Close,Calvin Harris
+Excited,Turn Down for What,DJ Snake & Lil Jon
+Happy / Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Happy / Joyful,Dancing Queen,ABBA
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Happy Together,The Turtles
+Sad / Melancholic,Stay With Me,Sam Smith
+Sad / Melancholic,Skinny Love,Bon Iver
+Sad / Melancholic,I Will Remember You,Sarah McLachlan
+Sad / Melancholic,The Scientist,Coldplay
+Sad / Melancholic,Back to December,Taylor Swift
+Love / Romantic,When a Man Loves a Woman,Percy Sledge
+Love / Romantic,How Deep Is Your Love,Bee Gees
+Love / Romantic,I Just Called to Say I Love You,Stevie Wonder
+Love / Romantic,You're Still the One,Shania Twain
+Love / Romantic,Kiss Me,Sixpence None The Richer
+Anger / Defiance,Eye of the Tiger,Survivor
+Anger / Defiance,Seven Nation Army,The White Stripes
+Anger / Defiance,Fight Song,Rachel Platten
+Anger / Defiance,The Pretender,Foo Fighters
+Anger / Defiance,You Oughta Know,Alanis Morissette
+Nostalgic,Free Fallin',Tom Petty
+Nostalgic,Rocket Man,Elton John
+Nostalgic,Summer Breeze,Seals and Crofts
+Nostalgic,Wish You Were Here,Pink Floyd
+Nostalgic,Imagine,John Lennon
+Hopeful,We Are the World,USA for Africa
+Hopeful,Lean on Me,Bill Withers
+Hopeful,Here Comes the Sun,The Beatles
+Hopeful,Beautiful Day,U2
+Hopeful,Don't Stop Believin',Journey
+Relaxed,Banana Pancakes,Jack Johnson
+Relaxed,Three Little Birds,Bob Marley
+Relaxed,Sunflower,Post Malone & Swae Lee
+Relaxed,Gravity,John Mayer
+Relaxed,Put Your Records On,Corinne Bailey Rae
+Excited,Party Rock Anthem,LMFAO
+Excited,Uptown Funk,Mark Ronson ft. Bruno Mars
+Excited,Get Lucky,Daft Punk ft. Pharrell Williams
+Excited,Can't Hold Us,Macklemore & Ryan Lewis ft. Ray Dalton
+Excited,Good Time,Owl City & Carly Rae Jepsen
+Happy / Joyful,Good Vibrations,The Beach Boys
+Happy / Joyful,Lovely Day,Bill Withers
+Happy / Joyful,Celebration,Kool & The Gang
+Happy / Joyful,Walking on Sunshine,Katrina and the Waves
+Sad / Melancholic,Back to Black,Amy Winehouse
+Sad / Melancholic,Hallelujah,Jeff Buckley
+Sad / Melancholic,Hurt,Johnny Cash
+Sad / Melancholic,Someone You Loved,Lewis Capaldi
+Sad / Melancholic,The Night We Met,Lord Huron
+Love / Romantic,I Will Always Love You,Whitney Houston
+Joyful,Happy,Pharrell Williams
+Joyful,Walking on Sunshine,Katrina and the Waves
+Joyful,Can't Stop the Feeling!,Justin Timberlake
+Joyful,Uptown Funk,Mark Ronson ft. Bruno Mars
+Joyful,I Gotta Feeling,The Black Eyed Peas
+Joyful,Good Vibrations,The Beach Boys
+Joyful,Lovely Day,Bill Withers
+Joyful,Celebration,Kool & The Gang
+Joyful,Best Day of My Life,American Authors
+Joyful,Shut Up and Dance,WALK THE MOON
+Joyful,Dancing Queen,ABBA
+Joyful,On Top of the World,Imagine Dragons
+Joyful,Happy Together,The Turtles
+Joyful,Good Life,OneRepublic
+Joyful,Firework,Katy Perry
+Joyful,Wake Me Up Before You Go-Go,Wham!
+Joyful,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston
+Joyful,Good Time,Owl City & Carly Rae Jepsen
+Joyful,All Star,Smash Mouth
+Joyful,Good Time,Owl City & Carly Rae Jepsen
+Joyful,Shake It Off,Taylor Swift
+Joyful,Ho Hey,The Lumineers
+Joyful,Good Time,Owl City & Carly Rae Jepsen
+Joyful,Dancing in the Moonlight,King Harvest
+Joyful,Ho Hey,The Lumineers
+Joyful,Good Life,OneRepublic
+Joyful,Best Day of My Life,American Authors
+Joyful,Shut Up and Dance,WALK THE MOON
+Joyful,Happy,Pharrell Williams
+Joyful,Lovely Day,Bill Withers
+Joyful,Walking on Sunshine,Katrina and the Waves
+Joyful,Can't Stop the Feeling!,Justin Timberlake
+Joyful,Uptown Funk,Mark Ronson ft. Bruno Mars
+Joyful,Happy Together,The Turtles
+Joyful,Dancing in the Moonlight,King Harvest
+Joyful,ABC,The Jackson 5
+Joyful,I'm a Believer,The Monkees
+Joyful,Build Me Up Buttercup,The Foundations
+Joyful,Don't Stop Me Now,Queen
+Joyful,Good Life,OneRepublic
+Joyful,On Top of the World,Imagine Dragons
+Joyful,Good Time,Owl City & Carly Rae Jepsen
+Joyful,Dancing Queen,ABBA
+Joyful,Good Vibrations,The Beach Boys
+Joyful,Walking on Sunshine,Katrina and the Waves
+Joyful,Lovely Day,Bill Withers
+Joyful,Happy,Pharrell Williams
+Love,Thinking Out Loud,Ed Sheeran
+Love,Just the Way You Are,Bruno Mars
+Love,All of Me,John Legend
+Love,Endless Love,Diana Ross and Lionel Richie
+Love,Unchained Melody,The Righteous Brothers
+Love,I Will Always Love You,Whitney Houston
+Love,Your Song,Elton John
+Love,I Don't Want to Miss a Thing,Aerosmith
+Love,My Heart Will Go On,Celine Dion
+Love,A Thousand Years,Christina Perri
+Love,Perfect,Ed Sheeran
+Love,Something,The Beatles
+Love,Crazy in Love,Beyoncé ft. Jay-Z
+Love,Can't Help Falling in Love,Elvis Presley
+Love,Endless Love,Lionel Richie & Diana Ross
+Love,When a Man Loves a Woman,Percy Sledge
+Love,How Deep Is Your Love,Bee Gees
+Love,I Just Called to Say I Love You,Stevie Wonder
+Love,You're Still the One,Shania Twain
+Love,Kiss Me,Sixpence None The Richer
+Love,Marry Me,Train
+Love,Wonderful Tonight,Eric Clapton
+Love,I Want to Know What Love Is,Foreigner
+Love,You Are the Best Thing,Ray LaMontagne
+Love,Make You Feel My Love,Adele
+Love,Let's Stay Together,Al Green
+Love,Truly Madly Deeply,Savage Garden
+Love,Unforgettable,Nat King Cole
+Love,More Than Words,Extreme
+Love,God Only Knows,The Beach Boys
+Love,At Last,Etta James
+Love,You're Beautiful,James Blunt
+Love,The Way You Look Tonight,Frank Sinatra
+Love,Just the Two of Us,Bill Withers
+Love,Endless Love,Luther Vandross & Mariah Carey
+Love,Everything,Michael Bublé
+Love,Can't Take My Eyes Off You,Frankie Valli
+Love,Have I Told You Lately,Van Morrison
+Love,I Could Fall in Love,Selena
+Love,My Girl,The Temptations
+Love,I Don't Want to Miss a Thing,Aerosmith
+Love,You Make My Dreams,Hall & Oates
+Love,Breathe Faith Hill
+Love,Amazed,Lonestar
+Love,The Power of Love,Celine Dion
+Love,Time After Time,Cyndi Lauper
+Love,She Will Be Loved,Maroon 5
+Love,Wonderful World,Sam Cooke
+Love,Hero,Enrique Iglesias
+Love,Love Story,Taylor Swift
+Love,Thinking Out Loud,Ed Sheeran
+Love,Just the Way You Are,Bruno Mars
+Love,All of Me,John Legend
+Love,Endless Love,Diana Ross and Lionel Richie
+Love,Unchained Melody,The Righteous Brothers
+Love,I Will Always Love You,Whitney Houston
+Love,Your Song,Elton John
+Love,I Don't Want to Miss a Thing,Aerosmith
+Love,My Heart Will Go On,Celine Dion
+Love,A Thousand Years,Christina Perri
+Love,Perfect,Ed Sheeran
+Love,Something,The Beatles
+Love,Crazy in Love,Beyoncé ft. Jay-Z
+Love,Can't Help Falling in Love,Elvis Presley
+Love,Endless Love,Lionel Richie & Diana Ross
+Love,When a Man Loves a Woman,Percy Sledge
+Love,How Deep Is Your Love,Bee Gees
+Love,I Just Called to Say I Love You,Stevie Wonder
+Love,You're Still the One,Shania Twain
+Love,Kiss Me,Sixpence None The Richer
+Love,Marry Me,Train
+Love,Wonderful Tonight,Eric Clapton
+Love,I Want to Know What Love Is,Foreigner
+Love,You Are the Best Thing,Ray LaMontagne
+Love,Make You Feel My Love,Adele
+Love,Let's Stay Together,Al Green
+Love,Truly Madly Deeply,Savage Garden
+Love,Unforgettable,Nat King Cole
+Love,More Than Words,Extreme
+Love,God Only Knows,The Beach Boys
+Love,At Last,Etta James
+Love,You're Beautiful,James Blunt
+Love,The Way You Look Tonight,Frank Sinatra
+Love,Just the Two of Us,Bill Withers
+Love,Endless Love,Luther Vandross & Mariah Carey
+Love,Everything,Michael Bublé
+Love,Can't Take My Eyes Off You,Frankie Valli
+Love,Have I Told You Lately,Van Morrison
+Love,I Could Fall in Love,Selena
+Love,My Girl,The Temptations
+Love,I Don't Want to Miss a Thing,Aerosmith
+Love,You Make My Dreams,Hall & Oates
+Love,Breathe Faith Hill
+Love,Amazed,Lonestar
+Love,The Power of Love,Celine Dion
+Love,Time After Time,Cyndi Lauper
+Love,She Will Be Loved,Maroon 5
+Love,Wonderful World,Sam Cooke
+Love,Hero,Enrique Iglesias
+Love,Love Story,Taylor Swift
+Wistful,The Night We Met,Lord Huron
+Wistful,Someone Like You,Adele
+Wistful,Yesterday,The Beatles
+Wistful,Tears in Heaven,Eric Clapton
+Wistful,Nothing Compares 2 U,Sinéad O'Connor
+Wistful,Hurt,Johnny Cash
+Wistful,Back to December,Taylor Swift
+Wistful,Fix You,Coldplay
+Wistful,Chasing Cars,Snow Patrol
+Wistful,With or Without You,U2
+Wistful,Hallelujah,Jeff Buckley
+Wistful,Let Her Go,Passenger
+Wistful,Stay With Me,Sam Smith
+Wistful,Skinny Love,Bon Iver
+Wistful,I Will Remember You,Sarah McLachlan
+Wistful,Mad World,Gary Jules
+Wistful,Everybody Hurts,R.E.M.
+Wistful,The Scientist,Coldplay
+Wistful,Creep,Radiohead
+Wistful,Somebody That I Used to Know,Gotye ft. Kimbra
+Wistful,Landslide,Fleetwood Mac
+Wistful,Fast Car,Tracy Chapman
+Wistful,If I Ain't Got You,Alicia Keys
+Wistful,Against All Odds (Take a Look at Me Now),Phil Collins
+Wistful,Wish You Were Here,Pink Floyd
+Wistful,Wild Horses,The Rolling Stones
+Wistful,Don't Dream It's Over,Crowded House
+Wistful,Let It Be,The Beatles
+Wistful,The A Team,Ed Sheeran
+Wistful,Teardrop,Massive Attack
+Wistful,I'm Not the Only One,Sam Smith
+Wistful,The Blower's Daughter,Damien Rice
+Wistful,Fields of Gold,Sting
+Wistful,The Book of Love,Peter Gabriel
+Wistful,Lost Cause,Beck
+Wistful,Blackbird,The Beatles
+Wistful,Shadow of the Day,Linkin Park
+Wistful,No Surprises,Radiohead
+Wistful,To Build a Home,The Cinematic Orchestra
+Wistful,Between the Bars,Elliott Smith
+Wistful,Under the Bridge,Red Hot Chili Peppers
+Wistful,Wild World,Cat Stevens
+Wistful,Pictures of You,The Cure
+Wistful,Brothers in Arms,Dire Straits
+Wistful,Half of My Heart,John Mayer
+Wistful,I Will Follow You into the Dark,Death Cab for Cutie
+Wistful,The Only Exception,Paramore
+Wistful,Here Without You,3 Doors Down
