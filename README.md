@@ -80,7 +80,7 @@ In summary, to create this dataset, the authors carried out a multi-stage proces
 
 ## APIs
 We executed APIs for: 
-1. lyrics genius.com
+1. lyricsgenius.com
 2. ChatGPT
 
 ## Issues: 
