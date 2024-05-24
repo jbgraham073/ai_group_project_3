@@ -87,7 +87,7 @@ We executed APIs for:
 We were not able to upload the actual models to github due to their size (1.6gb) even as a zip file. 
 
 ## Acknowledgements
-Special thanks to Matt Hergott, our wonderful and awesome instructor. 
+Special thanks to Matt Hergott, our awesome instructor. 
 
 
 
