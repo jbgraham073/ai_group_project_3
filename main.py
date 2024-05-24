@@ -123,7 +123,13 @@ with gr.Blocks() as app:
             with gr.Group():
                 song_title = gr.Textbox(lines=1, label="Song Title")
                 song_artist = gr.Textbox(lines=1, label="Song Artist")
-                search = gr.Button(value="Search")    
+                search = gr.Button(value="Search")  
+        with gr.Column():
+            with gr.Group():
+                new_sentiment = gr.Textbox(lines=1, label="Sentiment", scale=2)
+                submit = gr.Button(value="Submit")
+    with gr.Row():
+        with gr.Column():
             song_lyrics = gr.Textbox(lines=10, label="Lyrics")
             with gr.Row():
                 pos = gr.Textbox(lines=1, label="Positive")
@@ -132,9 +138,6 @@ with gr.Blocks() as app:
                 com = gr.Textbox(lines=1, label="Compound")
             search.click(fn=search_analyze_song, inputs=[song_title, song_artist], outputs=[song_lyrics, pos, neg, neu, com])
         with gr.Column():
-            with gr.Group():
-                new_sentiment = gr.Textbox(lines=1, label="Sentiment", scale=2)
-                submit = gr.Button(value="Submit")
             new_lyrics = gr.Textbox(lines=10, label="Lyrics")
             with gr.Row():
                 pos = gr.Textbox(lines=1, label="Positive")
