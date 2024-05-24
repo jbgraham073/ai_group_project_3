@@ -1,7 +1,8 @@
 # ai_group_project_3
 AI Bootcamp | Group Project 3
 
-Our innovative product analyzes the current sentiment of popular song lyrics and offers a unique feature to rewrite the lyrics to match a sentiment of the user's choice. By leveraging advanced natural language processing and sentiment analysis, users can transform any song to reflect their desired mood, creating a personalized and dynamic musical experience.
+## Overview
+This project provides tools for analyzing and modifying the sentiment of song lyrics using advanced machine learning models like BERT and VADER. With these tools, users can input a song's lyrics, understand its existing sentiment, and change the lyrics to match a new desired sentiment. The project includes multiple components such as data generation, model training, and a user-friendly interface built with Gradio.
 
 ## Problem Statement
 
@@ -14,7 +15,6 @@ Many music enthusiasts enjoy songs but wish the lyrics better matched their curr
 3. User-Friendly Interface: Offers an intuitive and interactive platform where users can easily input song lyrics, select their preferred sentiment, and receive personalized, sentiment-adjusted lyrics in real-time.
 
 ## Process 
-
 * Milestone 1 - Ideate & select project
 * Milestone 2 - Identify Data sources
 * Milestone 3 - Clean data
@@ -38,9 +38,6 @@ UI is functional
 * Metric: UI is functional & intuitive to use 
 * Measurement: User intuitively knows how to operate system and system functions as expected 
 
-## BERT Modeling 
-[...yada yada using the MuSE dataset from Kaggle...yada yada]
-
 ### MuSE: The Musical Sentiment Dataset (found on [Kaggle](https://www.kaggle.com/datasets/cakiki/muse-the-musical-sentiment-dataset))
 
 The process of producing this dataset is described in the paper [Toward a Musical Sentiment (MuSe) Dataset for Affective Distant Hearing](https://www.academia.edu/75793892/Toward_a_Musical_Sentiment_MuSe_Dataset_for_Affective_Distant_Hearing), which was presented at the CHR 2020 workshop on Computational Humanities Research.
@@ -52,13 +49,48 @@ For Moodify Lyrix:
 Stage 1: Identify the sentiment of user chosen song lyrics
 Stage 2: Enable the user to change the sentiment to match their mood using the Gradio interface, then perform a VADER sentiment analysis to the result. 
 
+## Features
+- **Sentiment Analysis**: Analyze the sentiment of song lyrics using BERT and VADER models.
+- **Lyrics Modification**: Modify the sentiment of existing song lyrics to match a new mood.
+- **User Interface**: Gradio app for easy interaction with the models.
+  
+## Files and Notebooks
+### Python Scripts
+- **vader.py**: Script for sentiment analysis using the VADER model.
+- **lyrics_genius.py**: Script for fetching song lyrics using the Genius API.
+- **gpt_sent_shift.py**: Script for shifting the sentiment of song lyrics using the GPT model.
 
-## Gradio Integration
-[...yada]
+### Notebooks
+- **dataset_generation.ipynb**: Jupyter notebook for generating datasets of song lyrics and their sentiments.
+- **model_inference.ipynb**: Notebook for running inference on song lyrics using trained models.
+- **GPT_API.ipynb**: Notebook for interacting with the GPT API for sentiment modification.
+- **bert_FINE_tune.ipynb**: Notebook for fine-tuning the BERT model on a custom dataset.
+- **vader.ipynb**: Notebook for sentiment analysis using the VADER model.
+- **gradio_playground.ipynb**: Notebook for developing and testing the Gradio user interface.
 
-## User Guidelines 
-[...add guidelines]
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/sentiment-song-lyrics-modifier.git
+    ```
+2. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+    
+## Usage
+1. Run the data generation notebook to prepare your dataset.
+2. Fine-tune the BERT model using the provided notebook.
+3. Use the sentiment analysis and modification scripts to analyze and modify song lyrics.
+4. Launch the Gradio app to interact with the models through a user-friendly interface.
 
-[link to deck]
+## Contributing
+We welcome contributions! Please open an issue or submit a pull request.
+
+
+## Acknowledgements
+Special thanks to Matt Hergott, our amazing instructor. 
+
+Also shouting out to the creators of BERT, VADER, and Gradio for their invaluable tools and resources. 
 
 
